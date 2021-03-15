@@ -1,0 +1,44 @@
+header{
+    font-size: 10px;
+    text-align: center;
+    color: #AF0B0B;
+    
+}
+
+main{
+    margin-left: 110px;
+
+}
+
+
+
+.box{
+    display: block;
+    float:left;
+    width: 27%;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    width: 100%;
+}
+
+img:hover{
+    transform: scale();
+}
+
+h3{
+    color:#2E96F2;
+    font-size: 16px;
+    margin-left: 12px;
+   
+}
+
+p{
+    text-align:justify;
+    font-size: 16px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
